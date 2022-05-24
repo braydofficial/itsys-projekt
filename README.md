@@ -1,4 +1,4 @@
-# IT-Sys Projekt Roscher
+# IT-Sys Projekt Aufgabe 3
 
 ## Disclaimer:
 This repo is a persnal repository for a simple school excersice working with HTML, PHP and MySQL.
