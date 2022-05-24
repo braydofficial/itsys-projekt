@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aufgabe 3 | Byron, Steffen</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="css/index.css" type="text/css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;600&display=swap" rel="stylesheet"> 
+    </head>
+    <body>
+        <div id="form">
+            <form action="insert.php" method="POST">
+                <formtext>AG-Bezeichnung:</formtext><br>
+                <input type="text" name="agbezeichnung" id="agbezeichnung"><br><br>
+                <formtext>Raumnummer:</formtext><br>
+                <input type="text" name="raumnr" id="raumnr"><br><br>
+                <formtext>Wochentag:</formtext><br>
+                <select name="day" id="day">
+                    <option value="Montag">Montag</option>
+                    <option value="Dienstag">Dienstag</option>
+                    <option value="Mittwoch">Mittwoch</option>
+                    <option value="Donnerstag">Donnerstag</option>
+                    <option value="Freitag">Freitag</option>
+                </select><br>
+                <formtext>Startzeit:</formtext><br>
+                <select name="time" id="time">
+                    <option value="14:00">14:00</option>
+                    <option value="15:00">15:00</option>
+                    <option value="16:00">16:00</option>
+                    <option value="17:00">17:00</option>
+                </select><br><br>
+                <input type="submit" name="submit" id="submit">
+            </form>
+        </div>
+    </body>
+</html>
