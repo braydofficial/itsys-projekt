@@ -6,6 +6,6 @@ This repo is a persnal repository for a simple school excersice working with HTM
 <b>Teilnehmer:</b> Byron, Steffen
 
 ## Screenshot ER-Modell
-![Screenshot vom ER-Modell](https://github.com/braydofficial/itsys-projekt-roscher/blob/main/Bildschirmfoto%20zu%202022-05-24%2014-11-45.png)
+![Screenshot vom ER-Modell](https://github.com/braydofficial/itsys-projekt/blob/main/Bildschirmfoto%20zu%202022-05-24%2014-11-45.png)
 
 Export der DB ist die .SQL-Datei.
