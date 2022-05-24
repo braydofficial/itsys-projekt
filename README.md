@@ -1,5 +1,8 @@
 # IT-Sys Projekt Roscher
 
+## Disclaimer:
+This repo is a persnal repository for a simple school excersice working with HTML, PHP and MySQL.
+
 <b>Teilnehmer:</b> Byron, Steffen
 
 ## Screenshot ER-Modell
